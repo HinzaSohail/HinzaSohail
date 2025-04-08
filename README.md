@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **Web development teams** ,**Coding** and **Programming**
 - 📫 How to reach me **sohailhinza601@gmail.com**
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy solving puzzles 
+- ⚡ Fun fact: I find joy in solving puzzles 
 
 <!---
 HinzaSohail/HinzaSohail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
